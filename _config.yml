@@ -21,7 +21,7 @@
 title: Haxing with Brent
 email: bcbutler35@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-'Join me as a work my way through various challenges. Becoming a world class hacker is #1 on my list!'
+    Join me as a work my way through various challenges. Becoming a world class hacker is #1 on my list!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _bcbutler
